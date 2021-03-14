@@ -1,0 +1,22 @@
+{
+  "name": "task-planner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosGomez380/IETI-lab7.git"
+  },
+  "author": "carlosGomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosGomez380/IETI-lab7/issues"
+  },
+  "homepage": "https://github.com/CarlosGomez380/IETI-lab7#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
